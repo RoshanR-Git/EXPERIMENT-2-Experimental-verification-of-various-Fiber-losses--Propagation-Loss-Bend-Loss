@@ -44,7 +44,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 **Calculation**
 
-![RExp6](https://github.com/user-attachments/assets/649ad24a-1314-440e-bd27-027ea42422f5)
+![Uploading RExp2.jpg…]()
 
 
 **Result:**  
